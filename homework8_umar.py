@@ -79,7 +79,7 @@ def removeduplikat(kalimat) :
             katakata += (item +' ')
     print(katakata)
 
-removeduplikat('alpha beta beta gamma gamma')
+removeduplikat('alpha beta beta beta gamma gamma')
 
 #number 8
 def stringy(angka) :
