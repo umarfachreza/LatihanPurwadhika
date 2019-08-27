@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # number 1
 def getsquare(num) :
     num = str(num)
@@ -94,7 +93,6 @@ def stringy(angka) :
 
 stringy(12)
 stringy(3)
-=======
 # number 1
 def getsquare(num) :
     num = str(num)
@@ -190,5 +188,4 @@ def stringy(angka) :
 
 stringy(12)
 stringy(3)
->>>>>>> 08645ffb191b31da418dbcdff14325c958466985
 stringy(4)
